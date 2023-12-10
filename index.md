@@ -1,10 +1,10 @@
-#Hello!
+# Adam Secrest's Portfolio
 
 My name is Adam Secrest (Secrest2904), and this is my Github Homepage! I am currently a 
 student at Cal State Fullerton majoring in Computer Science and planning on concentrating 
 in Cybersecurity. 
 
-##Computer Science Projects
+## Computer Science Projects
 
 My past projects can be found on my github page at http://github.com/Secrest2904
 
